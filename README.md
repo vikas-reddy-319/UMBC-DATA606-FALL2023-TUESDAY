@@ -3,7 +3,7 @@
 ## ________________________________________________
 ### Experience:
 Systems Engineer -Infosys Limited, Hyderabad        July 2021–July 2022
-Worked as a Developer and Data Engineer for P&G client in BI transformation initiative to consolidate data marts and move them to cloud via Azure Core Data Lake
+I worked as a Developer and Data Engineer for P&G client in BI transformation initiative to consolidate data marts and move them to cloud via Azure Core Data Lake\n
 Responsibilities:
 ● Creating the graphs and onboardings in Turbine ETL tool using various transformations
 ● Analyzing whether the data is published correctly or not in Azure Data Bricks using Spark SQL 
